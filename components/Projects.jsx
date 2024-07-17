@@ -1,9 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import propertyImg from '../public/assets/projects/property.jpg';
-import cryptoImg from '../public/assets/projects/crypto.jpg'
+import Doccare from '../public/assets/projects/doccare.png';
+import promptopia from '../public/assets/projects/promptopia.png'
 import netflixImg from '../public/assets/projects/netflix.jpg'
+import Ecom from '../public/assets/projects/Ecom.png'
 import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
 
@@ -17,32 +18,32 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Property Finder'
-            backgroundImg={propertyImg}
-            projectUrl='/property'
-            tech='React JS'
+            title='Doctor Consultation'
+            backgroundImg={Doccare}
+            projectUrl='/doctor'
+            tech='Next JS'
           />
           <ProjectItem
-            title='Crypto App'
-            backgroundImg={cryptoImg}
-            projectUrl='/crypto'
-            tech='React JS'
+            title='Promptopia'
+            backgroundImg={promptopia}
+            projectUrl='/promptopia'
+            tech='Next JS'
 
           />
           <ProjectItem
-            title='Netflix App'
-            backgroundImg={netflixImg}
-            projectUrl='/netflix'
-            tech='React JS'
+            title='E-commerce'
+            backgroundImg={Ecom}
+            projectUrl='/ecom'
+            tech='Next JS'
 
           />
-          <ProjectItem
+          {/* <ProjectItem
             title='Twitch UI'
             backgroundImg={twitchImg}
             projectUrl='/twitch'
             tech='Next JS'
 
-          />
+          /> */}
         </div>
       </div>
     </div>

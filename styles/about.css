@@ -1,0 +1,6 @@
+.customButton{
+    /* @apply shadow-none rounded-none bg-white text-black; 
+     */
+     background-color: red !important;
+     font-size: 25rem !important;
+}
