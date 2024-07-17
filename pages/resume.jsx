@@ -10,7 +10,7 @@ const resume = () => {
         <title>Hussain | Resume</title>
         <meta
           name="description"
-          content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences."
+          content="I'm a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences."
         />
         <link rel="icon" href="/fav.png" />
       </Head>
@@ -287,7 +287,7 @@ const resume = () => {
               designated user groups.
             </li>
             <li>
-              Utilized ServiceNow's scripting capabilities to customize order
+              Utilized ServiceNow&apos;s scripting capabilities to customize order
               forms and validation rules.
             </li>
             <li>

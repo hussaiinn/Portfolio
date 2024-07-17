@@ -10,15 +10,15 @@ const Main = () => {
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <p className="uppercase text-sm tracking-widest text-gray-600">
-            LET'S BUILD SOMETHING TOGETHER
+            LET&apos;S BUILD SOMETHING TOGETHER
           </p>
           <h1 className="py-4 text-gray-700">
-            Hi, I'm <span className="text-[#5651e5]"> Hussain</span>
+            Hi, I&apos;m <span className="text-[#5651e5]"> Hussain</span>
           </h1>
           <h1 className="py-2 text-gray-700">A Full Stack Web Developer</h1>
           <h1 className="py-2 text-gray-700">and Cloud Opeator</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I'm dedicated to crafting responsive web applications while
+            I&apos;m dedicated to crafting responsive web applications while
             seamlessly integrating back-end technologies in the cloud
             environment.
           </p>

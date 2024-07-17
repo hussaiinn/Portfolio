@@ -61,7 +61,7 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            Enthusiastic Computer Science graduate with a Bachelor's degree,
+            Enthusiastic Computer Science graduate with a Bachelor&apos;s degree,
             Class of 2024. Skilled in <b>web development</b> with proficiency in
             React.js and Next.js. Experienced in collaborating with
             cross-functional teams to deliver user-centric solutions.
