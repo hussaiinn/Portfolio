@@ -3,9 +3,9 @@ import Link from 'next/link';
 import React from 'react';
 import Doccare from '../public/assets/projects/doccare.png';
 import promptopia from '../public/assets/projects/promptopia.png'
-import netflixImg from '../public/assets/projects/netflix.jpg'
+// import netflixImg from '../public/assets/projects/netflix.jpg'
 import Ecom from '../public/assets/projects/Ecom.png'
-import twitchImg from '../public/assets/projects/twitch.jpg'
+// import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {

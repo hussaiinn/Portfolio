@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import AboutImg from "../public/assets/about.jpg";
-import TabButton from "./Tabbutton";
+// import TabButton from "./Tabbutton";
 import { useState } from "react";
 import { useTransition } from "react";
 
